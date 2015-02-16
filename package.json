@@ -1,6 +1,6 @@
 {
   "name": "jps-passbook-utils",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "lib/jps-passbook-utils.js",
   "description": "Apple Passbook utilities for creating, signing and packing passes.",
   "homepage": "https://github.com/jonniespratley/jps-passbook-utils",
