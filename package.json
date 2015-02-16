@@ -1,0 +1,36 @@
+{
+  "name": "jps-passbook-utils",
+  "version": "0.0.0",
+  "main": "lib/jps-passbook-utils.js",
+  "description": "Apple Passbook utilities for creating, signing and packing passes.",
+  "homepage": "https://github.com/jonniespratley/jps-passbook-utils",
+  "bugs": "https://github.com/jonniespratley/jps-passbook-utils/issues",
+  "author": {
+    "name": "Jonnie Spratley",
+    "email": "jonniespratley@gmail.com",
+    "url": "http://jonniespratley.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonniespratley/jps-passbook-utils"
+  },
+  "license": "MIT",
+  "files": [
+    "lib"
+  ],
+  "keywords": [],
+  "devDependencies": {
+    "blanket": "^1.1.6",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-mocha-test": "^0.12.7",
+    "jshint-stylish": "^0.2.0",
+    "load-grunt-tasks": "^0.4.0",
+    "mocha": "^2.1.0",
+    "time-grunt": "^0.3.1"
+  },
+  "scripts": {
+    "test": "grunt"
+  }
+}
