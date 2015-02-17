@@ -1,4 +1,4 @@
-# jps-passbook-utils [![Build Status](https://secure.travis-ci.org/jonniespratley/jps-passbook-utils.png?branch=master)](http://travis-ci.org/jonniespratley/jps-passbook-utils)
+# jps-passbook-utils [![Build Status](https://travis-ci.org/jonniespratley/jps-passbook-utils.svg?branch=master)](https://travis-ci.org/jonniespratley/jps-passbook-utils)
 
 Apple Passbook utilities for creating, signing and packing passes.
 
